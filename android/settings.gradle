@@ -1,0 +1,5 @@
+rootProject.name = 'simplemobilecv'
+
+include ':app'
+
+'../node_modules/simplemobilecv/android'
